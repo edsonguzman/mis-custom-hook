@@ -1,0 +1,10 @@
+# useFecth Hook
+
+Ejemplo de uso:
+
+```
+    const {  data: null, loading: true, error: null } = useFetch(url)
+
+```
+
+useFetch(url) // Recibe un URL
